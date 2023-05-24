@@ -29,22 +29,22 @@
     }
 
 
-    body {
+    /* body {
         background-image: url('{{asset('assets/images/custom-Img/main-bg.png')}}');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center top;
-    }
+    } */
     .main {
-        background-color: #ffffff00;
-        background: #ffffff00;
+        /* background-color: #ffffff00;
+        background: #ffffff00; */
 
-        /* background-image: url('{{asset('assets/images/custom-Img/main-bg.png')}}');
+        background-image: url('{{asset('assets/images/custom-Img/main-bg.png')}}');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        background-position: center top; */
+        background-position: center top;
     }
     .main .main-container {
         background: rgba( 255, 255, 255, 0.1 );
@@ -454,9 +454,9 @@
         background: rgb(0 0 0 / 17%);
     }
 
-    .darkmode .main {
+    /* .darkmode .main {
         background-color: #ffffff00;
-    }
+    } */
 
 
 </style>
