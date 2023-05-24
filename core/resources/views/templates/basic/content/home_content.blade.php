@@ -227,7 +227,7 @@
                     </a>
                 </div>
                 <div class="col-3 text-center">
-                    <a href="{{ route('pages', 'about-us') }}" class="card-box">
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#appDownloadModal" class="card-box">
                         <img src="{{ asset('assets/images/3d-logo/app-store.png') }}"
                             style="max-width: 60px; max-height: 60px;" alt="">
                         <p>Apps</p>
