@@ -45,6 +45,7 @@
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center top;
+        height: 1vh;
     }
     .main .main-container {
         background: rgba( 255, 255, 255, 0.1 );
